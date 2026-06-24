@@ -24,3 +24,6 @@ I build open-source .NET resilience packages — **Polly v8 contrib libraries** 
 | [![NuGet](https://img.shields.io/nuget/v/PollyChaos.svg)](https://www.nuget.org/packages/PollyChaos) [PollyChaos](https://github.com/Swevo/PollyChaos) | ![Downloads](https://img.shields.io/nuget/dt/PollyChaos.svg) | Chaos engineering (Simmy) |
 
 > Each package wraps its target library with a **one-liner** — `connection.WithPolly(pipeline)` — and ships a pre-built transient error predicate so you don't have to look up which exceptions to retry.
+| [PollyMailKit](https://github.com/Swevo/PollyMailKit) | MailKit SMTP email client | [![NuGet](https://img.shields.io/nuget/v/PollyMailKit.svg)](https://www.nuget.org/packages/PollyMailKit/) |
+| [PollyAzureQueueStorage](https://github.com/Swevo/PollyAzureQueueStorage) | Azure Queue Storage QueueClient | [![NuGet](https://img.shields.io/nuget/v/PollyAzureQueueStorage.svg)](https://www.nuget.org/packages/PollyAzureQueueStorage/) |
+| [PollyHangfire](https://github.com/Swevo/PollyHangfire) | Hangfire IBackgroundJobClient | [![NuGet](https://img.shields.io/nuget/v/PollyHangfire.svg)](https://www.nuget.org/packages/PollyHangfire/) |
