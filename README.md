@@ -27,3 +27,4 @@ I build open-source .NET resilience packages — **Polly v8 contrib libraries** 
 | [PollyMailKit](https://github.com/Swevo/PollyMailKit) | MailKit SMTP email client | [![NuGet](https://img.shields.io/nuget/v/PollyMailKit.svg)](https://www.nuget.org/packages/PollyMailKit/) |
 | [PollyAzureQueueStorage](https://github.com/Swevo/PollyAzureQueueStorage) | Azure Queue Storage QueueClient | [![NuGet](https://img.shields.io/nuget/v/PollyAzureQueueStorage.svg)](https://www.nuget.org/packages/PollyAzureQueueStorage/) |
 | [PollyHangfire](https://github.com/Swevo/PollyHangfire) | Hangfire IBackgroundJobClient | [![NuGet](https://img.shields.io/nuget/v/PollyHangfire.svg)](https://www.nuget.org/packages/PollyHangfire/) |
+| [AutoWire](https://github.com/Swevo/AutoWire) | Compile-time DI auto-registration (Roslyn source generator) | [![NuGet](https://img.shields.io/nuget/v/AutoWire.svg)](https://www.nuget.org/packages/AutoWire/) |
