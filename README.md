@@ -1,5 +1,20 @@
 # Hi, I'm Justin 👋
 
+## 💼 Available for .NET consulting
+
+I help engineering teams build **resilient, well-architected .NET systems**.
+
+| Speciality | Examples |
+|---|---|
+| **Polly v8 resilience** | Retry, circuit breaker, rate limiting, chaos engineering, hedging |
+| **Azure cloud** | Blob, Queues, Tables, Cosmos DB, Key Vault, Event Hubs, Service Bus |
+| **Clean .NET architecture** | DI, CQRS/MediatR, EF Core, background jobs, source generators |
+| **Distributed systems** | Kafka, RabbitMQ, MassTransit, SignalR, gRPC |
+
+**[→ solidqualitysolutions.com](https://www.solidqualitysolutions.com/)**
+
+---
+
 I build open-source .NET resilience packages — **Polly v8 contrib libraries** that make it trivial to add retry, timeout, and circuit-breaker to any .NET library with a single line of code.
 
 ## Polly v8 Contrib Packages
