@@ -11,7 +11,7 @@ I help engineering teams build **resilient, well-architected .NET systems**.
 | **Clean .NET architecture** | DI, CQRS/MediatR, EF Core, background jobs, source generators |
 | **Distributed systems** | Kafka, RabbitMQ, MassTransit, SignalR, gRPC |
 
-**[→ solidqualitysolutions.com](https://www.solidqualitysolutions.com/)**
+**[→ solidqualitysolutions.com](https://www.solidqualitysolutions.com/)** · **[LinkedIn](https://www.linkedin.com/in/justbannister/)**
 
 ---
 
